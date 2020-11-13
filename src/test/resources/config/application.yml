@@ -1,0 +1,2 @@
+tree:
+  url: 'http://localhost:${wiremock.server.port}/resource/uvpi-gqnh.json'
